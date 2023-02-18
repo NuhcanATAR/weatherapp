@@ -1,7 +1,7 @@
 # blogapp
 <h1>Flutter Hava Durumu Uygulaması</h1>
 
-<p>Flutter ile https://collectapi.com/tr/ sitesinde bulunan Hava Durumu API Kullanarak TÜrkiye de Bulunan 15 Şehirin Hava Durumu Bilgisini ve 6 günlük hava durumu detayı bilgisini veren bir mobil uygulama</p>
+<p>Flutter ile https://collectapi.com/tr/ sitesinde bulunan Hava Durumu API Kullanarak Türkiye de Bulunan 15 Şehrin Hava Durumu Bilgisini ve 6 günlük hava durumu detayı bilgisini veren bir mobil uygulama</p>
 
 <h5> * Uygulamada Bulunan Özellikler</h5>
 <ul>
